@@ -361,6 +361,7 @@ h2 {
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center 15%;
 }
 
 .headshot-placeholder {
